@@ -1,0 +1,19 @@
+{
+    "name":"Buddys VPM Tools",
+    "id":"com.buddyworks.vpm-tools",
+    "url":"idk-yet",
+    "author":{
+        "email":"hi@buddyworks.wtf",
+        "name":"BUDDYWORKS",
+        "url":"https://buddyworks.wtf"
+    },
+    "description":"Tools by others, accessible as VPM for convenience. Please acknowledge each assets ToS before usage.",
+    "infoLink":{
+        "url":"https://github.com/JustBuddy/vpm-tools",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"vmp_repo.png",
+    "githubRepos":[
+        "JustBuddy/InspectorHistory-Unity"
+    ]
+}
